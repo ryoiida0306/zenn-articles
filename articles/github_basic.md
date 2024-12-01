@@ -130,6 +130,17 @@ git pull origin (pullするブランチ名) # リモートリポジトリからp
 git merge (マージ元のブランチ名)
 ```
 
+## mergeの詳細
+- ローカルブランチ内でマージ
+```bash
+git merge (マージ元のブランチ名)
+```
+
+- リモートブランチに直接マージ
+```bash
+git merge origin/(マージ元のブランチ名)
+```
+
 ## コンフリクトの解消
 - コンフリクトが発生した場合、以下のようなメッセージが表示される
 ```bash
@@ -147,6 +158,12 @@ Automatic merge failed; fix conflicts and then commit the result.
 ```
 
 # 細かいこと
+
+## ブランチを作成して移動
+- ブランチを作成して移動
+```bash
+git checkout -b (ブランチ名)
+```
 
 ## ブランチの削除
 - ローカルリポジトリのブランチを削除
