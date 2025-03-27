@@ -7,6 +7,7 @@ published: true
 published_at: 2024-05-04 20:00
 ---
 
+
 # はじめに
 HSMM(Hidden Semi-Markov Model)は、HMM(Hidden Markov Model)の発展形であるため、
 先に[HMM]{https://zenn.dev/ryoiida0306/articles/hmm_understanding}を理解しておくことをお勧めします。
