@@ -3,7 +3,7 @@ title: "HMMを理解する"
 emoji: "🎤"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["AI", "音声", "HMM"]
-published: false
+published: true
 published_at: 2024-05-01 20:00
 ---
 
