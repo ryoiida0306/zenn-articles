@@ -4,7 +4,7 @@ emoji: "🎤"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["AI", "音声", "HMM", "HSMM"]
 published: true
-published_at: 2024-04-01 20:00
+published_at: 2024-05-04 20:00
 ---
 
 # はじめに
