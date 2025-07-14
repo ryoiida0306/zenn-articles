@@ -1,0 +1,9 @@
+title: "読んだ論文のまとめ"
+summary: "この本では、読んだ論文の要約をまとめます。"
+topics: ["論文", "要約"]
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - TTS_Transducer
+  # - example2
